@@ -1,0 +1,10 @@
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Debug\WindowsApplication1.Window_main.resources
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Debug\Main.vbproj.GenerateResource.Cache
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

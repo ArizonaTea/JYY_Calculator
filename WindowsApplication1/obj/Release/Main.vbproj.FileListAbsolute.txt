@@ -1,0 +1,14 @@
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\Main.vbproj.GenerateResource.Cache
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Release\代购价格计算器.exe.config
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Release\代购价格计算器.exe.manifest
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Release\代购价格计算器.application
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Release\代购价格计算器.exe
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Release\代购价格计算器.pdb
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\bin\Release\代购价格计算器.xml
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\W代购价格计算器.Resources.resources
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\W代购价格计算器.Window_main.resources
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\代购价格计算器.exe.manifest
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\代购价格计算器.application
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\代购价格计算器.exe
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\代购价格计算器.xml
+C:\Users\labeuser\Desktop\New folder\JYY_Calculator\JYY_Valculator\WindowsApplication1\obj\Release\代购价格计算器.pdb
